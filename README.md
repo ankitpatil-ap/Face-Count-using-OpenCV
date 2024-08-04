@@ -45,7 +45,7 @@ cv2.imread():-
               -> Radiance HDR - *.hdr, *.pic 
               -> Raster and Vector geospatial data supported by Gdal
               
-cv2.cvtColor():-
+cv2.cvtColor() :-
 --
          Converts an image from one color space to another.
 
