@@ -5,3 +5,5 @@ gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 faces = face_cascade.detectMultiScale(gray, 1.3, 5)
 print ("Number of Peoples in Images ")
 print (len(faces))
+
+
